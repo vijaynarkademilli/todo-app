@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices;
+package com.in28minutes.rest.basicauth;
 
 /**
  * Created by madhuri on 02-12-2018.
